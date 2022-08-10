@@ -7,3 +7,6 @@ console.log(iceCreamFlavours);
 iceCreamFlavours.push("rootbeer");
 console.log(iceCreamFlavours);
 console.log(iceCreamFlavours[0]);
+console.log(iceCreamFlavours[-1]);
+console.log(iceCreamFlavours.length);
+
